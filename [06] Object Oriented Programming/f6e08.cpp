@@ -1,9 +1,7 @@
 /*
  * @ 2025 by Diogo "Teros" Monteiro 
  */
-
-#include <iostream>
-
+ 
 class CDiametro{
     private:
     int pes; // diametro em pés
