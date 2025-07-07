@@ -1,9 +1,7 @@
 /*
  * @ 2025 by Diogo "Teros" Monteiro 
  */
-
-#include <iostream>
-
+ 
 class CAngulo {
     // a)
     protected: // mudança d) 
