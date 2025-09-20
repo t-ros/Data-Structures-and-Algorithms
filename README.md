@@ -30,3 +30,6 @@ Each program focuses on a specific concept or problem related to classic data st
 ++    ++        
  ++++++                       
 </code></pre>
+
+## License
+This project is licensed under [MIT License](https://github.com/t-ros/Data-Structures-and-Algorithms/blob/main/LICENSE).
